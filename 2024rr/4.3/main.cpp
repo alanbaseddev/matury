@@ -6,7 +6,7 @@ using namespace std;
 bool rozklad(int liczba, int A[]) {
     int pocz = liczba;
     int wynik = 1;
-    for ( int i = 0; i < 3000 && liczba > 0; i++ ) {
+    for ( int i = 0; i < 3000; i++ ) {
         if ( liczba % A[i] == 0 ) {
             liczba = liczba / A[i];
             wynik *= A[i];
