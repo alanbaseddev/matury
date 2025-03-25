@@ -1,0 +1,3 @@
+C:/Users/Alan/CLionProjects/2023rr/2.2/cmake-build-debug/CMakeFiles/2_2.dir
+C:/Users/Alan/CLionProjects/2023rr/2.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alan/CLionProjects/2023rr/2.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
