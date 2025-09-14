@@ -1,0 +1,6 @@
+SELECT u.imie, u.nazwisko
+FROM uczestnicy u
+JOIN przynaleznosc p ON u.id_czlonka = p.id_czlonka
+JOIN grupy g ON p.id_grupy = g.id_grupy
+WHERE g.nazwa = 'zdrowe_odzywianie'
+ORDER BY u.imie ASC, u.nazwisko ASC;

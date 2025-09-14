@@ -1,0 +1,6 @@
+SELECT u.imie, u.nazwisko
+FROM uczestnicy u
+JOIN przynaleznosc p ON u.id_czlonka = p.id_czlonka
+GROUP BY u.id_czlonka, u.imie, u.nazwisko
+HAVING COUNT(p.id_grupy) = 10
+ORDER BY u.nazwisko ASC;

@@ -1,0 +1,41 @@
+Zad 5.1
+film
+fitness
+fotografia
+fizyka
+Zad 5.2
+105
+Zad 5.3
+Bianca	Gelati
+Bogdan	Pamuk
+Emmanuella	Gerone
+Ewa	Aniol
+Ewa	Florczak
+John	Brax
+Justyna	Moroz
+Kacper	Makowski
+Maciej	Niedorzeczny
+Magda	Gruzin
+Marta	Lewkowicz
+Michal	Cabeanu
+Michal	Persen
+Miroslaw	Czort
+Monica	Bartolomeo
+Monica	Fantutti
+Nalia	Orzel
+Olaf	Gliwicki
+Paul	Neuman
+Pawel	Jadczak
+Robert	Workucki
+Tomasz	Gorny
+Tymon	Neuf
+Wioletta	Graczyk
+Zuzanna	Mincerz
+Zwonimir	Kusturica
+Zad 5.4
+Ewa	Aniol
+Monica	Fantutti
+Lena	Szaposznikowa
+Zad 5.5
+film	38
+

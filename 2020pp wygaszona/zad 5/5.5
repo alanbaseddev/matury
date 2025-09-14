@@ -1,0 +1,7 @@
+SELECT g.nazwa, COUNT(p.id_czlonka) AS liczba_czlonkow
+FROM grupy g
+JOIN przynaleznosc p ON g.id_grupy = p.id_grupy
+GROUP BY g.id_grupy, g.nazwa
+ORDER BY liczba_czlonkow DESC
+LIMIT 1;
+
