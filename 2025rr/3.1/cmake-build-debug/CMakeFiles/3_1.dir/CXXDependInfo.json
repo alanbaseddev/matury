@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/alan/Git/matury/2025rr/3.1/cmake-build-debug",
+	"dir-cur-src" : "/home/alan/Git/matury/2025rr/3.1",
+	"dir-top-bld" : "/home/alan/Git/matury/2025rr/3.1/cmake-build-debug",
+	"dir-top-src" : "/home/alan/Git/matury/2025rr/3.1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/alan/Git/matury/2025rr/3.1/cmake-build-debug/CMakeFiles/3_1.dir",
+	"sources" : 
+	{
+		"CMakeFiles/3_1.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/alan/Git/matury/2025rr/3.1/main.cpp"
+		}
+	}
+}
